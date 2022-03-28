@@ -1,0 +1,16 @@
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.exe
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.deps.json
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.runtimeconfig.json
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.runtimeconfig.dev.json
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.dll
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\ref\BarsEdu.dll
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\bin\Debug\net5.0\BarsEdu.pdb
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.csproj.AssemblyReference.cache
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.AssemblyInfoInputs.cache
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.AssemblyInfo.cs
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.dll
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\ref\BarsEdu.dll
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.pdb
+C:\Users\Bulat\RiderProjects\Residents\ConsoleApp1\BarsEdu\obj\Debug\net5.0\BarsEdu.genruntimeconfig.cache
