@@ -1,0 +1,9 @@
+[Info]: [String] : stringLogger LogInfo
+[Warning]: [String] : stringLogger LogWarning
+[Error] : [String] : stringLogger LogError. Object reference not set to an instance of an object.
+[Info]: [Int32] : intLogger LogInfo
+[Warning]: [Int32] : intLogger LogWarning
+[Error] : [Int32] : intLogger LogError. Object reference not set to an instance of an object.
+[Info]: [Boolean] : boolLogger LogInfo
+[Warning]: [Boolean] : boolLogger LogWarning
+[Error] : [Boolean] : boolLogger LogError. Object reference not set to an instance of an object.
