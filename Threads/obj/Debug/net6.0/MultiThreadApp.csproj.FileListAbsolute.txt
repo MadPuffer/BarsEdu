@@ -1,0 +1,15 @@
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\bin\Debug\net6.0\MultiThreadApp.exe
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\bin\Debug\net6.0\MultiThreadApp.deps.json
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\bin\Debug\net6.0\MultiThreadApp.runtimeconfig.json
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\bin\Debug\net6.0\MultiThreadApp.dll
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\bin\Debug\net6.0\MultiThreadApp.pdb
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.csproj.AssemblyReference.cache
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.AssemblyInfoInputs.cache
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.AssemblyInfo.cs
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.dll
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\refint\MultiThreadApp.dll
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.pdb
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\MultiThreadApp.genruntimeconfig.cache
+C:\Users\Bulat\RiderProjects\Rust\MultiThreadApp\MultiThreadApp\obj\Debug\net6.0\ref\MultiThreadApp.dll
